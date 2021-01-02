@@ -4,22 +4,23 @@
 
 ### Directed Graphs
 Direction does not matter. Represented with {} because the order is not important. {0,1} = {1,0}.
-<pre>
-<code>
-g = (v, e)
+
+They have in and out degree nodes.
+
+<pre><code>g = (v, e)
 v = {0,1,2,3}
-e = {{0,1}, {1,2}, {2,3}, {3,0}}
-</code>
-</pre>
+e = {{0,1}, {1,2}, {2,3}, {3,0}}</code></pre>
 
 ### Undirected Graphs
-<pre>
-<code>
-g = (v, e)
+
+They only have degree nodes.
+
+<pre><code>g = (v, e)
 v = {0,1,2,3}
-e = {(0,1), (2,1), (3,1)}
-</code>
-</pre>
+e = {(0,1), (2,1), (3,1)}</code></pre>
+
+Adjacency List<br>
+Adjancecy Matrices
 
 ## 5 Steps:
 
