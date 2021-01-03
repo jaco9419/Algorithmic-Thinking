@@ -8,6 +8,10 @@ Time
 
 Space (memory)
 
+In a graph, we usually measure efficiency by its input size, and the number of operations.
+
+We'll analize its worst case scenario
+
 ### Brute Force
 Simplest solution, but not necessarily the most efficient
 
