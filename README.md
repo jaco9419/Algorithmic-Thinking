@@ -2,6 +2,17 @@
 
 ## Graph Theory
 
+### Algorithm Efficienvy - Measurement
+
+Time
+
+Space (memory)
+
+### Brute Force
+Simplest solution, but not necessarily the most efficient
+
+### Paths and distances
+
 ### Directed Graphs
 Direction does not matter. Represented with {} because the order is not important. {0,1} = {1,0}.
 
